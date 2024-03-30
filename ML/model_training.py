@@ -38,14 +38,5 @@ def train_and_evaluate():
     print(f"Model R-squared: {r2}")
     print(f"Model Explained Variance Score: {evs}")
 
-
-# Save the trained model to a file only if it doesn't already exist
-# model_filename = 'saved_model.pkl'
-# if not os.path.exists(model_filename):
-#     dump(model, model_filename)
-#     print(f"Model saved to {model_filename}")
-# else:
-#    print(f"Model file {model_filename} already exists. Skipping save.")
-
 if __name__ == '__main__':
     train_and_evaluate()

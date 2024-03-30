@@ -43,3 +43,16 @@ cd ML
 python anomaly_prediction.py
 
 ```
+## Saving the Trained Model
+
+Save the trained model to a file only if it doesn't already exist
+
+```python
+# Save the trained model to a file only if it doesn't already exist
+model_filename = 'saved_model.pkl'
+if not os.path.exists(model_filename):
+    dump(model, model_filename)
+    print(f"Model saved to {model_filename}")
+else:
+    print(f"Model file {model_filename} already exists. Skipping save.")
+```
