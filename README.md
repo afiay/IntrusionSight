@@ -2,18 +2,8 @@
 
 # IntrusionSight: Advanced Network Anomaly Detection
 
-**IntrusionSight** is an elegantly crafted anomaly detection system, tailor-made for educational exploration of network security. This application is adept at pinpointing aberrant network patterns that may signal potential security breaches. With its arsenal of state-of-the-art machine learning algorithms, IntrusionSight stands as a vigilant guardian, offering a robust solution for the real-time surveillance and identification of cybersecurity threats, ideal for students and professionals eager to delve into the realm of cybersecurity analytics.
+**IntrusionSight**  is an anomaly detection tool for network security, perfect for those who are learning or working in cybersecurity. It quickly identifies unusual network behavior, signaling possible security threats, using machine learning for real-time threat monitoring.
 
-## Core Features
-
-- **Proactive Anomaly Detection**: Harnesses the power of advanced machine learning models to detect and notify users of unusual network activity instantaneously.
-- **Streamlined Data Preprocessing**: Comes equipped with scripts that automate the scrubbing and preparation of network traffic data, setting the stage for analysis.
-- **Adaptive Model Retraining**: Features an intelligent system that incrementally learns from new data, ensuring the model remains in lockstep with the evolving digital landscape.
-- **Intuitive User Interface**: Boasts a clear and navigable graphical user interface, offering immediate insights through alerts and in-depth anomaly analysis.
-
-## Quickstart Guide
-
-Embark on your IntrusionSight journey with these simple setup instructions, designed for both development and experimental use.
 
 ### System Prerequisites
 
