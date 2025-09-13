@@ -20,7 +20,7 @@ Begin by establishing your development environment:
 
 ```bash
 # Clone the repository to your local machine
-git clone [your-repository-url]
+git clone https://github.com/afiay/IntrusionSight/tree/main
 
 # Enter the IntrusionSight directory
 cd IntrusionSight
